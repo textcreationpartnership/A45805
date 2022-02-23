@@ -1,0 +1,452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Right Honourable Lord-Mayor, the Aldermen, and governours of the hospitals of London, at St. Bridget's Church, on Wednesday in Easter week, MDCC by Z. Isham ...</title>
+            <author>Isham, Z. (Zacheus), 1651-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45805</idno>
+            <idno type="STC">Wing I1071</idno>
+            <idno type="STC">ESTC R15563</idno>
+            <idno type="EEBO-CITATION">12209401</idno>
+            <idno type="OCLC">ocm 12209401</idno>
+            <idno type="VID">56230</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56230)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 765:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Right Honourable Lord-Mayor, the Aldermen, and governours of the hospitals of London, at St. Bridget's Church, on Wednesday in Easter week, MDCC by Z. Isham ...</title>
+                  <author>Isham, Z. (Zacheus), 1651-1705.</author>
+               </titleStmt>
+               <extent>[4], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettleby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 31.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Acts XX, 35 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56230:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the RIGHT HONOURABLE THE LORD-MAYOR, THE ALDERMEN, AND Governours of the Hoſpitals of <hi>London;</hi> At St. <hi>Bridget</hi>'s Church.</p>
+            <p>On <hi>Wedneſday</hi> in <hi>Eaſter Week,</hi> MDCC</p>
+            <p>By <hi>Z. ISHAM,</hi> D. D.</p>
+            <p>Rectour of S. <hi>Botolph Biſhopſgate,</hi> London.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettleby,</hi> at the <hi>Biſhop</hi>'s <hi>Head</hi> in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> MDCC.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:56230:2"/>
+            <pb facs="tcp:56230:2"/>
+            <p>To the Right Honourable Sir <hi>RICHARD LEVETT,</hi> LORD-MAYOR of <hi>LONDON;</hi> THE HONOURABLE The COURT of ALDERMEN; AND THE <hi>GOVERNOVRS</hi> of the ſeveral <hi>Hoſpitals;</hi> This DISCOURSE is humbly Preſented by the AUTHOUR: With his <hi>Earneſt Prayer</hi> For the <hi>Peace,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> The <hi>Righteouſneſs,</hi> and <hi>Proſperity</hi> Of this IMPERIAL CITY: And that every <hi>Magiſtrate,</hi> and <hi>Sharer</hi> in the Government of it, May have this Retribution from the King of Kings;</p>
+            <q>
+               <l>Becauſe thou haſt been faithful in a little,</l>
+               <l>Have thou authority over ten Cities.</l>
+               <bibl>
+                  <hi>Luke 19.17.</hi>
+               </bibl>
+            </q>
+         </div>
+         <div type="license">
+            <pb facs="tcp:56230:3"/>
+            <head>Levett Mayor.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Martis</hi> nono die <hi>Aprilis, 1700.</hi> Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Regni Regis <hi>Willielmi</hi> Tertii <hi>Angliae,</hi> &amp;c. duodecimo.</date>
+               </dateline>
+            </opener>
+            <p>THIS Court doth deſire Doctor <hi>Iſham</hi> to Print his Sermon Preached be<g ref="char:EOLhyphen"/>fore the Lord-Mayor, Aldermen, and Go<g ref="char:EOLhyphen"/>vernours of the ſeveral Hoſpitals of this City, at the Pariſh-Church of St. <hi>Brides,</hi> on <hi>Wedneſday</hi> in <hi>Easter-Week</hi> laſt.</p>
+            <closer>
+               <signed>Goodfellow.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:56230:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ACTS XX 35.</hi>
+                  </bibl>
+                  <p>Ye ought to ſupport the weak, and to remember the words of the Lord Je<g ref="char:EOLhyphen"/>ſus, how he ſaid, It is more bleſſed to give, than to receive.</p>
+               </q>
+            </epigraph>
+            <p n="1">I. WHEN <hi>David,</hi> in an Aſſembly of his Great Men, had encourag'd their Oblations towards the build<g ref="char:EOLhyphen"/>ing of the Temple; their extra<g ref="char:EOLhyphen"/>ordinary Munificence fill'd him with pious Joy: And <hi>Now</hi> (ſaith he) <hi>O God,</hi>
+               <note place="margin">1 Chron 29.13, 14, 16.</note> 
+               <hi>we thank Thee, and praiſe thy Glorious Name: But who am I, and what is my People, that we ſhould be able to offer ſo willingly after this ſort? For all things come of Thee, and of thine own have we given Thee.</hi> Such a Religious Addreſs may well become this Solemnity; eſpecially from you, that have been liberal Offerers with your own hands: And we ought to begin with Thankſgi<g ref="char:EOLhyphen"/>vings to God, for enriching this Great City with ſo many Structures of Charity; and to bleſs him for enabling the Raiſers of them <hi>to offer ſo willingly;</hi> and to acknowledge with humble Gratitude, <hi>All this ſtore cometh of thine hand, and is all thine own.</hi> 'Tis not for Oſtentation, and Pomp, that theſe Bene<g ref="char:EOLhyphen"/>factions are now diſplay'd; (for that would be to
+<pb n="2" facs="tcp:56230:4"/>offer Violence to <hi>Charity</hi> it ſelf) but for the exci<g ref="char:EOLhyphen"/>ting of our Sacrifices to God, who is the chief Donour of all theſe Gifts; and for a Memorial of the <hi>Righteous,</hi>
+               <note place="margin">Pſal. 112.6.</note> that are worthy to be had <hi>in Ever<g ref="char:EOLhyphen"/>laſting Remembrance;</hi> and for an Incentive to all thoſe that have hearts to follow them. Let us ac<g ref="char:EOLhyphen"/>cordingly anſwer theſe Ends, and purſue this Spi<g ref="char:EOLhyphen"/>ritual Traffick with an Earneſtneſs equal to the Advantages of it: And let us be aſſur'd, that the <hi>Strength</hi> of a City lies in God's Protection; and the <hi>Riches</hi> of it in Works of Piety, and Mercy. To which effect, <hi>Ye ought to ſupport the weak; and to remember the words of the Lord Jeſus, how he ſaid, It is more bleſſed to give, than to receive.</hi>
+            </p>
+            <p n="2">II. The Maxim here mention'd from the Mouth of our Bleſſed <hi>Lord,</hi> is not depoſed in any of the <hi>Goſpels</hi> received by the Church; but was tranſ<g ref="char:EOLhyphen"/>mitted (as I conceive) by <hi>Tradition,</hi> and com<g ref="char:EOLhyphen"/>monly known amongſt the Chriſtians; which therefore they are call'd upon to remember, as what they had often heard. S. <hi>John</hi> tells us, That if all that <hi>Jeſus did</hi> ſhould be ſet down diſtinctly in Writing, <hi>even the World it ſelf could not contain the Books that ſhould be written.</hi>
+               <note place="margin">Joh. 21.25.</note> By which <hi>hyperbo<g ref="char:EOLhyphen"/>lical</hi> Expreſſion, the Evangeliſt ſeems to intimate, That the Intention of his Writing was not out of a Partial Affection to <hi>Chriſt,</hi> to ſet forth all that he did, and to compile a Volume meerly for his Glory; but to relate onely ſo much as was neceſſary for the Inſtruction of the World, in the Funda<g ref="char:EOLhyphen"/>mental Principles of the Chriſtian Faith. Where<g ref="char:EOLhyphen"/>upon he ſaith before,<note place="margin">Joh. 20.30, 31.</note> 
+               <hi>Many other Signs truly did Jeſus in the Preſence of his Diſciples, which are not written in this Book: But theſe are written, that ye
+<pb n="3" facs="tcp:56230:4"/>might believe, that Jeſus is the Chriſt the Son of God;</hi> (which was the grand Article for the Con<g ref="char:EOLhyphen"/>viction of the <hi>Jews,</hi> who diſclaim'd his being the <hi>Meſſias,</hi> and of the <hi>Hereticks</hi> who then impugned his <hi>Divinity</hi>) <hi>and that believing ye might have life through his Name.</hi> Wherefore as <hi>Chriſt</hi> endea<g ref="char:EOLhyphen"/>vour'd the Converſion of his own People, and evinc'd his being the Promis'd Redeemer, by in<g ref="char:EOLhyphen"/>numerable <hi>Miracles</hi> which are not convey'd to the Knowledge of Poſterity; (the Wiſdom of God ordering it thus, and having given us otherwiſe ſufficient Confirmation of our Faith) ſo likewiſe many of the Heavenly <hi>Speeches</hi> deliver'd by him in the Courſe of his Preaching, are unrecorded in our Authentick <hi>Goſpels;</hi> and yet ſome of them have been occaſionally preſerv'd, as alſo a few Re<g ref="char:EOLhyphen"/>mains of the <hi>Apoſtles;</hi> like Gold waſh'd off from the Mountains, and left upon the Shoar. Of this Nature is a Saying of our Lord, met with in ma<g ref="char:EOLhyphen"/>ny of the Ancient<note n="*" place="margin">Origen, Clem. Alex. Hieron. <hi>&amp;c.</hi>
+               </note> Fathers, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Be good Exchangers of Money;</hi> that is, Diſtinguiſh well between true and counterfeit Doctrine. And ſo again this is aſcrib'd by<note n="*" place="margin">De Orat. § <hi>2.</hi>
+               </note> 
+               <hi>Origen</hi> to our Saviour, <hi>Ask for great things, and the little ſhall be added to you; ask for heavenly things, and the earthly ſhall be added.</hi> From a like unknown Source we have, by S. <hi>Paul,</hi> this excellent Aphoriſm before us; which might well be joyn'd to thoſe admirable <hi>Beatitudes</hi> in the Sermon upon the <hi>Mount.</hi> For an equal Bleſ<g ref="char:EOLhyphen"/>ſedneſs is here declar'd, and promis'd to the chari<g ref="char:EOLhyphen"/>table Giver, by him who is able to make good his Promiſe: <hi>It is more bleſſed to give, than to receive.</hi>
+            </p>
+            <pb n="4" facs="tcp:56230:5"/>
+            <p n="3">III. For the Explication of which Words, as they are apply'd by the Apoſtle to the ſupporting of the weak, and indigent, I ſhall endeavour to clear theſe Four Points:</p>
+            <list>
+               <item>Firſt, <hi>
+                     <g ref="char:V">Ʋ</g>pon what grounds we are oblig'd to Works of Charity;</hi>
+               </item>
+               <item>Secondly, <hi>In what proportion our Charity is re<g ref="char:EOLhyphen"/>quired by God;</hi>
+               </item>
+               <item>Thirdly, <hi>
+                     <g ref="char:V">Ʋ</g>pon what Objects our Charity is moſt uſefully employ'd;</hi> And</item>
+               <item>Fourthly, <hi>Wherein the Bleſſedneſs of being chari<g ref="char:EOLhyphen"/>table conſiſts.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> I am to explain the Grounds, upon which we are oblig'd to Works of Charity: And theſe I ſhould not inſiſt upon in a Duty to unconteſted, (though too frequently ſhifted off) were they not alſo Enforcements to Alacrity, and Forwardneſs herein. And the Grounds which I ſhall argue from, ſhall be theſe Two;
+<list>
+                  <item>
+                     <hi>1ſt.</hi> The Principles of <hi>Natural Juſtice;</hi> And</item>
+                  <item>
+                     <hi>2dly.</hi> The Light of <hi>Revelation.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">
+               <hi>1ſt.</hi> Let it be conſider'd, that relieving of the Poor is exacted from us by the Rules of Natural Juſtice: Becauſe though they have no particular, and perfect <hi>Right</hi> to what any of us poſſeſs; yet having a ſhare in God's Donation of the Earth to Man, they have hereby a general <hi>Claim</hi> to the Bounty of the Rich; which is to be actually ex<g ref="char:EOLhyphen"/>hibited, as their Wants are diſcover'd to us. For our Incitement hereunto, there are natural
+<pb n="5" facs="tcp:56230:5"/>Motions wrought within us, and moulded into our very Frame: For when we ſee a miſerable Object, Nature it ſelf moves our Bowels to Com<g ref="char:EOLhyphen"/>paſſion, and our Hands to give; and thoſe of the fineſt Temper are ſooneſt affected with the Di<g ref="char:EOLhyphen"/>ſtreſſes of other Men. So that whereas the being befriended by our inbred Corruption, is that by which other Sins prevail; the uncharitable, and unrelenting Niggard doth not only ſtifle his Rea<g ref="char:EOLhyphen"/>ſon, but alſo ſtrive againſt the Inſtigations of his own Soul. For in this Matter every Man may be his own <hi>Caſuiſt,</hi>
+               <note place="margin">Luke 6.31.</note> and take his Deciſion from that<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Iſo<g ref="char:EOLunhyphen"/>crat.</note> Univerſal Law; <hi>As ye would that men ſhould do to you, do ye alſo to them likewiſe.</hi> In Conformity whereunto, upon the ſight of any indigent Neigh<g ref="char:EOLhyphen"/>bour, 'tis but turning the Tables, and ſuppoſing that thou art in his place. Imagine thy ſelf to be reduc'd to Poverty, or to a languiſhing Condition, and full of Wants that cry out for ſpeedy help; or to be ſurrounded with a Stock of Children, with<g ref="char:EOLhyphen"/>out having Bread to ſilence their Clamours, and ſtop their Tears: And then ask thy Conſcience, if thou wouldſt not think it very reaſonable, that thy Neighbour who lives in Affluence, and hath Stores in Readineſs, ſhould contribute ſomewhat to thy Relief, and lend a compaſſionate hand to deliver thee from Affliction. This undoubtedly would be thy Senſe, and juſtly too: And conſe<g ref="char:EOLhyphen"/>quently deal with thy poor Brethren according to the ſame Standard. For though the Neceſſities of another Man (even upon the Suppoſition of his being ready to periſh) cannot empower him in <hi>ſtrict Juſtice</hi> to take Poſſeſſion of any of my Goods, without thy Conſent either actually expreſs'd, or
+<pb n="6" facs="tcp:56230:6"/>juſtly preſum'd: Yet I am oblig'd to part with them freely for his Benefit, in ſuch Urgencies, ſo far as I can ſpare them And this is no more than what<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Homer.</note> 
+               <hi>Natural Religion</hi> diſcovers; and <hi>Reaſon</hi> binds upon us from the implanted Inſtincts of our own Frame, and the common Ties of Humanity.</p>
+            <p n="4">IV. <hi>2dly,</hi> This Duty is further enforc'd from the Light of <hi>Revelation:</hi> And in all the Diſpenſations of <hi>Divine Truth</hi> we find it our way. <hi>Job</hi> (who is ſuppos'd with much Probability to have liv'd before the <hi>Law</hi>) acquaints us with his early Pra<g ref="char:EOLhyphen"/>ctice;<note place="margin">Job 31.16, 17, 19.</note> 
+               <hi>That he never with-held the poor from their de<g ref="char:EOLhyphen"/>ſire, nor cauſed the eyes of the widow to fail; that he did never eat his morſel alone, but with the Fatherleſs; and that he never ſaw any periſh for want of clothing, or any poor without covering.</hi>
+               <note place="margin">Deut. 15.11, 10.</note> And <hi>Moſes</hi> is very expreſs from <hi>God: The poor ſhall never ceaſe out of the land; therefore thou ſhalt open thine hand wide unto thy brother, to thy poor, and needy in thy land: Thou ſhalt ſurely give him, and thine heart ſhall not be grieved when thou giveſt unto him.</hi> And this was to be done over and above the ſpecial<note n="*" place="margin">Deut. 14.28, 29.</note> 
+               <hi>Tithe</hi> for the poor, and<note n="‖" place="margin">Exod. 23.11. Levit. 23.22. Iſ. 58.6, 7.</note> other <hi>Legal</hi> Proviſions for them. Agreeably hereunto the <hi>Pro<g ref="char:EOLhyphen"/>phet</hi> declares in the Name of God, <hi>Is not this the Faſt that I have choſen, to deal thy bread to the hun<g ref="char:EOLhyphen"/>gry, and that thou bring the poor that are caſt out to thy houſe? When thou ſeeſt the naked, that thou cover him, and that thou hide not thy ſelf from thine own fleſh?</hi> It ſeems then that even under the <hi>Jewiſh</hi> Oeconomy, (which was ſo full of Ritual Obſer<g ref="char:EOLhyphen"/>vances) there was no true Religion without works of Mercy, and Charity: So that if this Sacrifice were wanting, neither their Faſts, nor Devotions,
+<pb n="7" facs="tcp:56230:6"/>nor Burnt-offerings could be truly acceptable in the Sight of God. If from hence we paſs to the <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> State, the <hi>Precepts,</hi> and <hi>Example</hi> of <hi>Chriſt</hi> ſhine before us with ſuch Brightneſs, as to con<g ref="char:EOLhyphen"/>vince us that Charity is one of the Pillars of his Religion.<note place="margin">Mat. 5.42.</note> 
+               <hi>Give</hi> (ſaith he) <hi>to him that asketh Thee, and from him that would borrow of thee, turn not thou away:</hi> And again,<note place="margin">Luk. 11.41.</note> 
+               <hi>Give alms of ſuch things as you have,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>according to your ability; and be<g ref="char:EOLhyphen"/>hold,</hi>
+               <note place="margin">Luk. 12.33.</note> 
+               <hi>all things are clean unto you:</hi> And again, <hi>Sell that you have, and give alms; provide your ſelves bags which wax not old, a treaſure in the heavens that faileth not:</hi> And again,<note place="margin">Luk. 14.13, 14.</note> 
+               <hi>When thou makeſt a feaſt, call the poor, the maimed, the lame, the blind; and thou ſhalt be bleſſed; for they cannot recompenſe thee: For thou ſhalt be recompenſed at the Reſurre<g ref="char:EOLhyphen"/>ction of the juſt.</hi> I need not produce what the <hi>Apoſtles</hi> have urged to the ſame Effect: For their Leſſons are known to us at the <hi>Offertory,</hi> when (according to the<note n="*" place="margin">
+                  <hi>Juſtin Mart.</hi> Apol. <hi>Iren.</hi> l. 4. c. 34. <hi>Cypr.</hi> de Eleem.</note> ancient Piety) the Oblations of our Subſtance are joynd' with the Sacrifice of the Lord's Supper. Nor ſhall I ſet before you the Zeal of the <hi>Primitive</hi> Church, in relieving the afflicted, and ſupporting one another under Perſe<g ref="char:EOLhyphen"/>cution to ſuch a degree, that the Flames of their <hi>Charity</hi> were as eminent, and glorious, as thoſe of their <hi>Martyrdom.</hi> For how can any Chriſtian for<g ref="char:EOLhyphen"/>get his Duty herein, ſince Chriſtianity is the Imi<g ref="char:EOLhyphen"/>tation of our Saviour's Life? And we all know, that he was the greateſt Pattern of Charity that ever was ſeen in the World.</p>
+            <p n="5">V. I come then to the <hi>2d</hi> Head, namely to ſhew, In what meaſure our Charity is demanded of God:
+<pb n="8" facs="tcp:56230:7"/>And though the fixing of this may ſeem difficult, and we have no ſettled Standard to go by; (be<g ref="char:EOLhyphen"/>cauſe God is willing to try, what we will do of our own accord) yet the <hi>Two</hi> following Rules may very reaſonably be allow'd.</p>
+            <p n="1">
+               <hi>1ſt.</hi> That we are bound to give in Proportion to the Neceſſities of the poor: And as their Num<g ref="char:EOLhyphen"/>bers, and Wants increaſe, we are to be more li<g ref="char:EOLhyphen"/>beral; as they leſſen by being ſet on work, or pro<g ref="char:EOLhyphen"/>vided for otherwiſe, we are under no Obligation of ſcattering unneceſſary Relief. The Injunction of <hi>Moſes</hi> was this,<note place="margin">Deut. 15.7, 8.</note> 
+               <hi>Thou ſhalt not harden thy heart, nor ſhut thine hand from thy poor brother: But thou ſhalt ſurely lend him ſufficient for his need, in that which he wanteth:</hi> And this lending (under the Law) was in a manner equivalent to giving. 'Tis impoſſible to cloth a naked Man with a Rag; or to keep a Family from ſtarving with a Morſel of Bread: And therefore the beſtowing of ſuch penu<g ref="char:EOLhyphen"/>rious Alms (where all their dependance is upon us) is rather to inſult over their miſery, than to reſcue them from it. Let it be granted, that we are oblig'd to relieve the poor; and the Conſequence is undeniable, that our Bounty muſt extend to ſuch a meaſure as they cannot ſubſiſt without. If the Laws of our Country would reach to the em<g ref="char:EOLhyphen"/>ploying and maintaining of all our poor, then what we ſhould pay into the publick Stock, would be inſtead of our voluntary Alms; and might by a free Dedication of it to God, be as much accepted by him. But as our preſent Circumſtances are, the needy cannot be ſupported but by our Free-will-offerings; and conſequently (till ſome <hi>National</hi> Remedy is procur'd) the more numerous they
+<pb n="9" facs="tcp:56230:7"/>grow, whatever Retrenchments we make upon our ſelves, we muſt not ſuffer them to be famiſh'd. And becauſe our time of doing good is but ſhort, let not any opportunity ſlip from us.</p>
+            <p n="6">VI. The <hi>2d</hi> Rule is, That every Man is oblig'd to give in proportion to his own Affluence, and ſtated Income; and between God, and his own Conſcience, to allot ſuch a part of it for Charity, as may anſwer the General Precepts concerning it. The <hi>Caſuiſts</hi> commonly aſſert, That 'tis a ſin not to diſtribute amongſt the poor our <hi>Superfluities:</hi> But how theſe are to be computed, they are not equally agreed.<note place="margin">Eccl. 35.10.</note> 
+               <hi>Give unto the moſt High</hi> (ſaith the Son of <hi>Sirach</hi>) <hi>according as he hath enriched thee; and as thou haſt gotten, give with a chearful eye:</hi> And one of greater Authority thus regulates the Col<g ref="char:EOLhyphen"/>lections for the Brethren,<note place="margin">1 Cor. 16.2.</note> 
+               <hi>Let every one of you lay by him in ſtore, as God hath proſper'd him.</hi>
+               <note place="margin">Luk. 21.3.</note> A <hi>Mite</hi> may be applauded by Chriſt from a poor Widow,<note place="margin">Levit. 5.7.</note> but not from a rich Offerer; and he muſt not ſave the beſt of his Flock, by bringing a Turtle; he muſt not ſhrink at giving, and pretend Inability, when he can be profuſe upon his Vanities, and Pleaſures: For <hi>God is not mocked;</hi>
+               <note place="margin">Gal. 6.7.</note> and all the cheat he puts is upon his own Soul. And let us not forget, that God is a <hi>Creditour</hi> to all of us, and we are his <hi>Debters;</hi> and there is a Day to come for the ballancing of the <hi>Accounts</hi> between us. I will not however pretend to determine, how much preciſely any Man is bound to ſet aſide for Acts of Mercy; and the Apoſtle ſeems to have prevented ſuch an Enquiry by this Direction,<note place="margin">2 Cor. 9.7.</note> 
+               <hi>Every man according as he purpoſeth in his heart, ſo let him give; not grudg<g ref="char:EOLhyphen"/>ingly,
+<pb n="10" facs="tcp:56230:8"/>or of neceſſity; for God loveth a chearful giver.</hi> There was, I confeſs, in thoſe early times before the Law, a Notion amongſt good Men of dedica<g ref="char:EOLhyphen"/>ting to God a <hi>tenth</hi> part of their Increaſe: And hereupon this was <hi>Jacob</hi>'s Vow, <hi>Of all that thou ſhalt give me,</hi>
+               <note place="margin">Gen. 28.22.</note> 
+               <hi>I will ſurely give the tenth unto thee:</hi> And that he carefully perform'd this Vow upon growing rich, we may take for granted. 'Tis true, theſe Payments to God were originally for his <hi>Al<g ref="char:EOLhyphen"/>tar;</hi> and by Conſequence the poor were not di<g ref="char:EOLhyphen"/>rectly concern'd in them: But beſides that I believe the <hi>Prieſts</hi> of God to have been the common <hi>Al<g ref="char:EOLhyphen"/>moners</hi> for the People in thoſe days, as they cer<g ref="char:EOLhyphen"/>tainly were in the<note n="*" place="margin">
+                  <hi>Cyprian.</hi> Ep. 2. &amp; 5 &amp; 7. <hi>Greg. Reſp. ad Auguſt.</hi>
+               </note> 
+               <hi>Primitive</hi> Church; I only take notice of the <hi>Principle</hi> they went upon, and argue from it to the Caſe before us. For if God's Do<g ref="char:EOLhyphen"/>minion is to be acknowledg'd by a <hi>Tenth</hi> of what we receive from him; (as thoſe devout Men an<g ref="char:EOLhyphen"/>ciently thought) we may borrow ſome Light from hence, to be guided by in diſperſing our Alms; and 'tis what many charitable Perſons have conſtantly done. But (as our Saviour ſaid in another Caſe) <hi>All men cannot receive this ſaying,</hi>
+               <note place="margin">Mat. 19.11.</note> 
+               <hi>ſave they to whom it is given:</hi> And ſuch an Impoſition will be re<g ref="char:EOLhyphen"/>jected by many as too burthenſome; though 'tis much below the Inſtance of the wealthy Publican, <hi>Behold,</hi>
+               <note place="margin">Luk. 19.8.</note> 
+               <hi>Lord, the half of my goods I give to the poor.</hi> Allow me then to make a more eaſy, and gentle Propoſal: And 'tis a Preſcription that hath been try'd, and approv'd. 'Tis briefly this: <hi>That every man, whom God hath bleſs'd in his Calling, would at the end of the year review his income from it, and com<g ref="char:EOLhyphen"/>pute the acceſſion to his gains; and would then upon his knees humbly offer a portion of it to God, and ſet
+<pb n="11" facs="tcp:56230:8"/>it apart as a private Stock for Charity for the Year en<g ref="char:EOLhyphen"/>ſuing.</hi> This Gift he may dedicate in ſome ſuch Form, as the honeſt <hi>Jew</hi> did his Basket of Firſt<g ref="char:EOLhyphen"/>fruits; <hi>Behold, I have brought the firſt-fruits of the land, which thou, O Lord, haſt given me:</hi>
+               <note place="margin">Deut. 26.10.</note> And I am perſwaded, ſuch an Offering would cleanſe, and ſanctifie the reſt of the Harveſt. And by this An<g ref="char:EOLhyphen"/>niverſary Oblation he would further have this Ad<g ref="char:EOLhyphen"/>vantage; that he would always give with Ala<g ref="char:EOLhyphen"/>crity, and ſeek for occaſions to do it, and delight in exhauſting his conſecrated Treaſure. I add this Caution, that what a Chriſtian dedicates to God,<note n="*" place="margin">Non ſit Eleemoſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>na ex in<g ref="char:EOLhyphen"/>juſtâ aliorum rapinâ, ſed ex propriâ, ac probè acquiſitâ fa<g ref="char:EOLhyphen"/>cultate. <hi>Concil. Cloveſh.</hi> A. D. <hi>747,</hi> De juſtis laboribus fa<g ref="char:EOLhyphen"/>cite eleemoſynas, ex eo quod rectè habetis date. Non enim corrupturi eſtis Judicem Chri<g ref="char:EOLhyphen"/>ſtum. <hi>Auguſtin.</hi>
+               </note> muſt be out of honeſt Gains: For God accepts no Offering out of Goods ill gotten, and capable of being reſtor'd; by this <hi>Mammon of <g ref="char:V">Ʋ</g>nrighteouſneſs,</hi> there is no <hi>making of friends</hi> above; becauſe there is onely place for <hi>Restitution</hi> to them that have been defrauded.<note place="margin">Eccl. 34.20.</note> 
+               <hi>Whoſo bringeth an offering of the goods of the poor,</hi> (ſaith a wiſe <hi>Jew</hi>) <hi>doeth as one that killeth the Son before his Fa<g ref="char:EOLhyphen"/>ther's eyes.</hi>
+            </p>
+            <p n="7">VII But to proceed to the <hi>3d</hi> Point, let us now conſider, upon what <hi>Objects</hi> our Charity is moſt uſefully employ'd: And theſe I ſhall briefly men<g ref="char:EOLhyphen"/>tion under the following Heads.</p>
+            <p n="1">
+               <hi>1ſt.</hi> Such as ſuffer for the Truth of the Goſpel, either againſt Infidelity, or againſt Idolatry, and groſs Corruptions: And in them moſt properly <hi>Chriſt</hi> himſelf is reliev'd. This <hi>Charity</hi> was ſo re<g ref="char:EOLhyphen"/>markable in the <hi>Primitive</hi> Ages of Perſecution,
+<pb n="12" facs="tcp:56230:9"/>that it propagated the Chriſtian Faith almoſt as much as <hi>Miracles:</hi> And when the Priſons were fill'd with <hi>Confeſſours,</hi> they were viſited, and re<g ref="char:EOLhyphen"/>freſh'd with ſuch Fervency, that it rais'd an holy Ambition: to put on theſe happy Chains. We have not ſuch Trials (God be prais'd) either of our Fortitude, or Liberality at home; though 'tis not long ſince the Skie was growing black over us, and we were apprehenſive of a Storm. But many from abroad, that have fled from <hi>Antichriſtian</hi> Ty<g ref="char:EOLhyphen"/>ranny, have been zealouſly ſuccour'd here: And the ſhelter afforded to them hath poſſibly induc'd God, not to let looſe the <hi>Spirit</hi> of Perſecution upon <hi>us.</hi> From other quarters we may be likely to hear of it again; (for no Circle will confine the reſtleſs <hi>Spirit</hi> of <hi>Popery:</hi>) and then our Charity muſt have new Vigour. The Redemption of <hi>Cap<g ref="char:EOLhyphen"/>tives</hi> out of <hi>Turkiſh</hi> Slavery is an Act that hath ſome Affinity hereunto: For ſince they are op<g ref="char:EOLhyphen"/>preſs'd for bearing the Name of <hi>Chriſt,</hi> and may be preſerv'd to him by a ſpeedy Deliverance; our Forwardneſs herein will entitle us to this Appro<g ref="char:EOLhyphen"/>bation from our Lord,<note place="margin">Mat. 25.36.</note> 
+               <hi>I was in priſon, and ye came unto me.</hi>
+            </p>
+            <p n="8">VIII. <hi>2dly,</hi> In diſtinguiſhing Objects of Mercy let us regard thoſe eſpecially, that are recom<g ref="char:EOLhyphen"/>mended to it by their own Worth; or by that of their Progenitours. For if they have a good Teſtimony for Piety, or Vertue, or Learning; if they have Endowments overcaſt with Po<g ref="char:EOLhyphen"/>verty, that would otherwiſe ſhine; if in the days of their Plenty they have been Relievers of the indigent, and extended their hands
+<pb n="13" facs="tcp:56230:9"/>more willingly to give, than now to receive; if their Modeſty reſtrains their wants from ſpeaking, and hides them from common Diſcovery; or if they can plead the Merits of thoſe from whom they are deſcended: In all ſuch Caſes a Preference is due, and the good that is done is attended with a peculiar Satisfaction of mind. Diſcretion in Alms-giving is a great Improvement of it: And this diſcriminating Rule we have from the Apoſtle,<note place="margin">Gal. 6.10.</note> 
+               <hi>Let us do good eſpecially unto them who are of the houſhold of faith;</hi> and by conſequence to them above others of this Houſhold, that have any Pre<g ref="char:EOLhyphen"/>eminence. For which reaſon I cannot but mention with Praiſe the Noble <hi>Hoſpitals,</hi> which we have for <hi>Decay'd Gentlemen,</hi> and <hi>Citizens:</hi> And I truſt, they will in time excite the Emulation of others, who ſhall be diſpos'd to ſecure their Wealth in the <hi>Bank</hi> of <hi>Eternity.</hi>
+            </p>
+            <p n="9">IX. <hi>3dly,</hi> Such Objects are well qualify'd for our Compaſſion, as fall into diſtreſs, or decay, by a ſudden Calamity overtaking them; or by the immediate hand of God: And not by Idleneſs, or Vice; where the Relief of a Scourge is generally the fitteſt. For 'tis a plain Diſcouragement to In<g ref="char:EOLhyphen"/>duſtry, and Sobriety, that diſſolute Vagabonds, and lazy Beggars ſhould be fed at the publick Charge; and theſe by howling, and diſſembling, ſhould pick up more in an hour, than an honeſt Labourer can earn in a day: And as long as they that reſolve not to <hi>dig,</hi> can thrive by begging in our Streets; this City will be the common Drain and Harbour of all the unprofitable Drones in the Na<g ref="char:EOLhyphen"/>tion. But when men are impoveriſh'd by acciden<g ref="char:EOLhyphen"/>tal
+<pb n="14" facs="tcp:56230:10"/>Adverſities, as by Fire, or Shipwrack, or by an unaccountable Blaſt upon their Labours; theſe we ought to commiſerate, and raiſe up as much as we can: Remembring that we alſo are <hi>in the body.</hi>
+               <note place="margin">Heb. 13.3.</note> and ſubject to the like Viciſſitudes. Who was it that the <hi>Samaritan</hi> in the Goſpel is commended for taking care of? not a Straggler that would rather ſtarve, than work; but an unfortunate Traveller that was <hi>robb'd,</hi>
+               <note place="margin">Luk. 10.30.</note> and <hi>wounded</hi> by Thieves. <hi>The ſtuggard</hi> (ſaith <hi>Solomon) will not plow by reaſon of the cold;</hi>
+               <note place="margin">Prov. 20.4.</note> 
+               <hi>therefore ſhall he beg in harveſt, and have nothing;</hi> that is, no body will give him any thing: And ſo there was a <hi>Jewiſh</hi> Proverb,<note n="*" place="margin">Mercer.</note> 
+               <hi>He that will not provide his dinner for the Sabbath upon the Eve of it, ſhall eat nothing then:</hi> Nay, an Apoſtle him<g ref="char:EOLhyphen"/>ſelf hath decreed,<note place="margin">2 Theſſ. 3.10.</note> 
+               <hi>That if any would not work, nei<g ref="char:EOLhyphen"/>ther ſhould he eat.</hi>
+            </p>
+            <p>X. <hi>4thly,</hi> Such Objects are very fit for our Cha<g ref="char:EOLhyphen"/>rity, as will improve what is given them, and lay it as the Foundation of their future Livelihood: And then the <hi>Bread</hi> that we <hi>caſt upon the Waters,</hi> will be <hi>found after</hi> ſome <hi>days,</hi>
+               <note place="margin">Eccl. 11.1. 1 King. 16.12, 16.</note> like the <hi>Widow's handful of meal;</hi> not only unwaſted, but alſo maintaining Families by the Increaſe of it. Accor<g ref="char:EOLhyphen"/>dingly the releaſing of <hi>Priſoners</hi> for Debt, and re<g ref="char:EOLhyphen"/>ſtoring them to their Callings, is a very advanta<g ref="char:EOLhyphen"/>gious Charity: and ſo is the ſetting up of young <hi>Tradeſmen,</hi> and helping them to begin the World: and ſo eſpecially is the educating of poor <hi>Orphans,</hi> and putting them out to honeſt Profeſſions. This is planting for Poſterity, and providing for Gene<g ref="char:EOLhyphen"/>rations to come: and as the neglecting of our Youth is the grand Source of the Corruption of the
+<pb n="15" facs="tcp:56230:10"/>Age; ſo the ſeaſoning of them with good Inſtru<g ref="char:EOLhyphen"/>ctions, and breeding them up to reputable Em<g ref="char:EOLhyphen"/>ployments, is the beſt ſervice that can be done to <hi>Religion,</hi> and to our <hi>Country.</hi> The Goodneſs of a Soil is of little profit without the Husbandman's Labour; the Sweat of his Brows muſt go along with the Showers of Heaven; and unleſs the Land be well cultivated, and the Vineyard dreſs'd, we can neither have Bread to ſtrengthen us, nor Wine to refreſh us. 'Tis ſo with men, as to the forming of them for their appearance in the World: There muſt be a diligent Cultivation, as well as a good Capacity; and without it, though there may be Luxuriancy of Parts, there is ſeldom Fruit anſwer<g ref="char:EOLhyphen"/>able thereunto: and (which is worſe) when the Devil finds any Ground untill'd, he is generally ſowing Tares upon it. Wherefore <hi>Schools,</hi> and <hi>Colleges,</hi> and <hi>Hoſpitals</hi> for the Education of Chil<g ref="char:EOLhyphen"/>dren, cannot be too much encourag'd by publick-ſpirited men: and this being the condition of the Firſt Hoſpital in your Roll, I ſhall ſet before you this Report from it.</p>
+            <p>
+               <note n="*" place="margin">Chriſt<hi>'s</hi> Hoſ<g ref="char:EOLhyphen"/>pital.</note>
+               <hi>Children put forth Apprentices, and diſcharged out of</hi> Chriſt<hi>'s</hi> Hoſpital, <hi>the Year laſt paſt</hi> 125; <hi>ten whereof being inſtructed in the</hi> Mathematicks <hi>and</hi> Navigation, <hi>were placed forth Apprentices to Com<g ref="char:EOLhyphen"/>manders of Ships, out of the Mathematical School, Founded by his late Majeſty King</hi> Charles <hi>the Second of Bleſſed Memory.</hi>
+            </p>
+            <p>
+               <hi>Children buried the Year laſt paſt,</hi> 7.</p>
+            <p>
+               <hi>Children now remaining under the Care and Charge of the ſaid Hoſpital, which are kept in the Houſe and at Nurſe elſewhere</hi> 309, <hi>and</hi> 54 <hi>newly admitted, a<g ref="char:EOLhyphen"/>mounting in all to</hi> 363.</p>
+            <pb n="16" facs="tcp:56230:11"/>
+            <p>
+               <hi>The Names of all which are Regiſtered in the Books kept in the ſaid Hoſpital, and are to be ſeen, as alſo when and whence they were admitted.</hi>
+            </p>
+            <p>
+               <hi>Which being ſo many in number, and the charge of keeping them very great, (and being ſtill depreſſed by the very great Loſs, which was ſuſtained by the late Dreadful Fire) it's hoped many worthy and good Chriſtians will liberally aſſiſt towards ſo uſeful and be<g ref="char:EOLhyphen"/>neficial a Charity.</hi>
+            </p>
+            <p>For the promoting hereof, I ſhall only add; that the Inſtitution of young men in the Art, and Prin<g ref="char:EOLhyphen"/>ciples of <hi>Navigation,</hi> deſerves all the Countenance that can be given to it: Becauſe upon this Skill depends both the Security of the Kingdom, and the ſpreading of your Commerce; and thoſe whom you now maintain, may bring home to your doors the Riches of the Univerſe.</p>
+            <p>XI. From theſe who are bred up for the Service of their Country, let us proceed in the <hi>5th</hi> place to thoſe who by ſerving it are maimed, and diſ<g ref="char:EOLhyphen"/>abled from getting their own Bread: And theſe certainly are worthy Objects of Publick Charity; and the Proviſion that hath been made, and is making for them with Princely Magnificence, re<g ref="char:EOLhyphen"/>dounds exceedingly to the Honour of this Great City. And this will animate men at all times, to offer themſelves willingly for the Defence of their Country,<note place="margin">Pſal. 66.12.</note> and to <hi>go through fire, and water;</hi> when they are ſure of being refreſh'd at home, and enti<g ref="char:EOLhyphen"/>tled by their Wounds to an Honourable Mainte<g ref="char:EOLhyphen"/>nance. Let me therefore upon this Head preſent you with the Report from <hi>Two</hi> other Hoſpitals.</p>
+            <pb n="17" facs="tcp:56230:11"/>
+            <p>
+               <note n="*" place="margin">
+                  <hi>S.</hi> Bartholo<g ref="char:EOLhyphen"/>new<hi>'s</hi> Hoſpital.</note>
+               <hi>There have been cured and diſcharged from the Hoſpital of St.</hi> Bartholomew<hi>'s the Year laſt paſt,</hi> 2217 <hi>of Wounded, Sick and Maimed Soldiers and Seamen, and other diſeaſed Perſons, from ſeveral parts of the Dominions of the King's moſt Excellent Majesty, and from Foreign parts, many of which have been relieved with Moneys and other Ne<g ref="char:EOLhyphen"/>ceſſaries at their Departure, tho' (as it hath plea<g ref="char:EOLhyphen"/>ſed God) the greateſt part of the Revenue of the ſaid Hoſpital was conſumed by the late Dreadful Fire.</hi>
+            </p>
+            <p>
+               <hi>Buried this Year, after much Charges on them,</hi> 109.</p>
+            <p>
+               <hi>Perſons remaining under Cure in the ſaid Ho<g ref="char:EOLhyphen"/>ſpital,</hi> 278.</p>
+            <p>
+               <hi>The difficulty of the times being ſuch, and the con<g ref="char:EOLhyphen"/>tingent Charities exceedingly leſſen'd, the ordinary Revenue is not ſufficient to ſupport above a Moy<g ref="char:EOLhyphen"/>ety of the Charge of the whole, by which means the numbers received in, and cured this Year, are fewer than the preceding, and without the Cha<g ref="char:EOLhyphen"/>rity of well diſpoſed Perſons are not capable of being advanced.</hi>
+            </p>
+            <p>
+               <note n="*" place="margin">
+                  <hi>S.</hi> Thomas<hi>'s</hi> Hoſpital.</note>
+               <hi>There have been cured and diſcharged from St.</hi> Thomas<hi>'s Hoſpital in</hi> Southwark, <hi>this laſt Year,</hi> 1952 <hi>of Sick, Wounded, and Maimed Soldiers and Seamen, and other diſeaſed Perſons, from ſe<g ref="char:EOLhyphen"/>veral parts of his Majesty's Dominions, and from Foreign Parts; many of which have been relieved with Money, and other Neceſſaries at their De<g ref="char:EOLhyphen"/>parture; tho' much of the Revenue of the ſaid
+<pb n="18" facs="tcp:56230:12"/>Hoſpital has been deſtroyed by ſeveral dreadful Fires in</hi> London <hi>and Southwark; and moſt of the Buildings of this Hoſpital being very old, low, damp and incommodious for the Reception of ſick and wounded Perſons; the Governours have re<g ref="char:EOLhyphen"/>built a great part thereof, in which they have al<g ref="char:EOLhyphen"/>ready laid out of their own free Gift many thou<g ref="char:EOLhyphen"/>ſands of Pounds; and have maintained the ſame number of Patients for Cure, whilſt the ſame Building has been carried on. To compleat the whole, there is ſome part now building, which, without the Aſſiſtance of charitable Perſons, can<g ref="char:EOLhyphen"/>not well be accompliſhed: The Yearly Revenue being much leſs than will defray the conſtant Charge.</hi>
+            </p>
+            <p>
+               <hi>Buried this Year after much Charge in the time of their Sickneſs,</hi> 148.</p>
+            <p>
+               <hi>Remaining under Cure at the Charge of the ſaid Hoſpital,</hi> 330.</p>
+            <p>'Tis to be hop'd, That all theſe Difficulties will be remov'd, by God's diffuſing a charitable Spirit amongſt us: And where this is imparted, 'tis a pleaſure to meet with Occaſions for the exerciſing of it.</p>
+            <p>XII. <hi>Laſtly,</hi> Whenever we are diſpos'd for Acts of Mercy, they that have the moſt preſſing, and clamorous wants to ſpeak for them, are al<g ref="char:EOLhyphen"/>ways fitteſt for our preſent Choice: For Charity looks not barely at the <hi>Man,</hi> but at his <hi>Neceſſities.</hi> If we could pray Souls out of <hi>Purgatory,</hi> the reſcu<g ref="char:EOLhyphen"/>ing of them from ſuch Torments as are pretended would be a moſt Chriſtian Work: But whatever
+<pb n="19" facs="tcp:56230:12"/>we are to think of the Ancient Prayers for our de<g ref="char:EOLhyphen"/>parted Brethren, (which our<note n="*" place="margin">Conſueverat Eccleſia Primitiva offerre, &amp; orare pro Martyribus; quem<g ref="char:EOLhyphen"/>admodum hodiè Graeci pro Prophetis, Apoſtolis, &amp; Patriarchis offerunt; &amp; Latini pro Parvulis ſtatim à Baptiſmo diſcedentibus &amp; orant, &amp; offerunt: quos nemo tamen in Purgatorii tormen<g ref="char:EOLhyphen"/>tis eſſe putaverit. Igitur Orationes, &amp; Oblationes hujuſmodi, partim ſunt Eu<g ref="char:EOLhyphen"/>chariſticae; partim Pronunciatoriae quie<g ref="char:EOLhyphen"/>tum, ad quas ſancti dormientes perpe<g ref="char:EOLhyphen"/>tuò deducuntur; partim Declarativae divinae voluntatis, quemadmodum pre<g ref="char:EOLhyphen"/>camur, <hi>ut Deus Eccleſiam ſuam re<g ref="char:EOLhyphen"/>gere, ac defenſare dignetur, Ut ig<g ref="char:EOLhyphen"/>noſcat reſipiſcentibus;</hi> partim Admo<g ref="char:EOLhyphen"/>nitoriae viventium, ad ſanctam vitam, ut felicitèr poſtea perpetuò vivere paſſint; partim Affectuum, &amp; deſideriorum no<g ref="char:EOLhyphen"/>ſtrorum Declarativae, quemadmodum or at Eccleſia. <hi>In die judicii libera nos Domine:</hi> quae nihilominùs omnia certi ſumus, etiam ſine nostris precibus, De<g ref="char:EOLhyphen"/>um facturum. <hi>Archbiſhop</hi> Cranmer<hi>'s Theolog. Collect. MSS.</hi>
+               </note> 
+               <hi>Re<g ref="char:EOLhyphen"/>formers</hi> were very ſenſible of) we have reaſon to believe, that Ho<g ref="char:EOLhyphen"/>ſpitals for the <hi>Living</hi> are much more neceſſary than Foundations for the <hi>Dead.</hi> Let us then be contented with what we can do for the living; and a wiſe Wri<g ref="char:EOLhyphen"/>ter ſaith, <hi>Mercy is ſeaſonable in the time of affliction, as clouds of rain in the time of drought:</hi> Eccl. 35.20. And therefore in the Diſtri<g ref="char:EOLhyphen"/>bution of our Alms, let us en<g ref="char:EOLhyphen"/>quire after the moſt needy, and helpleſs, and diſconſolate Objects; for a <hi>cup of cold water</hi> given to a parched and thirſty Soul, will not be without a <hi>reward.</hi> Mat. 10.42. <hi>Sickneſs</hi> is of it ſelf very afflictive; but how much hea<g ref="char:EOLhyphen"/>vier muſt it be in Conjunction with Poverty? And therefore he that ſhuts up his Bowels from Chri<g ref="char:EOLhyphen"/>ſtians in ſuch diſtreſs, hath loſt the common Ten<g ref="char:EOLhyphen"/>derneſs of humane Nature. And ſo <hi>Blindneſs,</hi> and <hi>loſs of Limbs</hi> is to be compenſated by us as much as we can: According to what <hi>Job</hi> ſaith of him<g ref="char:EOLhyphen"/>ſelf, <hi>I was eyes to the blind,</hi>
+               <note place="margin">Job 29.15.</note> 
+               <hi>and feet was I to the lame.</hi> But no Miſery doth more command our Pity, than that of a <hi>raving,</hi> and diſtracted, and benighted <hi>mind;</hi>
+               <note place="margin">Mark 5.3.</note> for 'tis a kind of <hi>dwelling among the tombs,</hi> and converſing with Devils: And the reſtoring of ſuch to the Uſe of their Rational Powers, is a Mercy like that of healing <hi>Demo<g ref="char:EOLhyphen"/>niacks.</hi>
+               <pb n="20" facs="tcp:56230:13"/>And therefore though a tender heart can<g ref="char:EOLhyphen"/>not eaſily bear the ſight of ſuch wretched Objects; it cannot but delight in beholding your Bounty towards them, and the Noble <hi>Structure</hi> erected for them. Let me then ſubjoyn the Account of the <hi>Two</hi> remaining Hoſpitals.</p>
+            <p>
+               <note n="*" place="margin">Bridewell Hoſpital.</note>
+               <hi>Received this laſt Year into the Hoſpital of</hi> Bridewel, <hi>Vagrants, and other indigent and miſera<g ref="char:EOLhyphen"/>ble People,</hi> 1406, <hi>many whereof had both Cloathing, and ſuch other Relief as their Neceſſities required, be<g ref="char:EOLhyphen"/>ing in great Diſtreſs, and ſent by Paſſes into their Native Countries.</hi>
+            </p>
+            <p>
+               <hi>Maintained in the ſaid Hoſpital, and brought up in divers Arts and Trades, at the only Charge of the ſaid Hoſpital,</hi> 101 <hi>Apprentices; notwithſtanding it pleaſed God, the Hoſpital, and all the Houſes with<g ref="char:EOLhyphen"/>in the Precinct thereof, (which was the greater part of its Revenue) were wholly conſumed by the late dreadful Fire; beſides the great loſs ſustained in the Remains of its Revenue by two terrible Fires, the one in</hi> June, 1673. <hi>and the other in</hi> November, 1682; <hi>which hapned in</hi> Wapping.</p>
+            <p>
+               <note n="*" place="margin">Bethlem Hoſpital.</note>
+               <hi>The Hoſpital of</hi> Bethlem <hi>is of great neceſſity for the keeping and curing diſtracted Perſons, whoſe miſery, of all others, is the moſt deplorable, becauſe they do not apprehend the ſame, it diſabling the Mind, as well as the Body.</hi>
+            </p>
+            <p>
+               <hi>Brought into the ſaid Hoſpital the laſt Year, di<g ref="char:EOLhyphen"/>ſtracted Men and Women,</hi> 60.</p>
+            <p>
+               <hi>Cured of their Lunacy, and diſcharged thence the ſaid Year,</hi> 45.</p>
+            <p>
+               <hi>Diſtracted Perſons buried the laſt Year,</hi> 10.</p>
+            <pb n="21" facs="tcp:56230:13"/>
+            <p>
+               <hi>Now remaining there under Cure, and provided for with Phyſick, Dyet and other Relief, at the Charge of the ſaid Hoſpital,</hi> 131.</p>
+            <p>
+               <hi>The Charge whereof is great, and the Revenue of the ſaid Hoſpital ſo ſmall, as not to amount to one half part of the yearly Expences thereof; and the Build<g ref="char:EOLhyphen"/>ing of the old Hoſpital of</hi> Bethlem <hi>being Ruinous and not Capacious to receive and contain the great num<g ref="char:EOLhyphen"/>ber of diſtracted Perſons; for the Admiſſion of whom, daily Applications are made to the Governours thereof.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon a Chriſtian and Charitable Conſideration of the Premiſſes, the Lord Mayor, Aldermen, and Com<g ref="char:EOLhyphen"/>mon Council of the City of</hi> London, <hi>did lately grant ſufficient Ground to erect a more commodious Houſe for the keeping and curing the ſaid Lunaticks, and di<g ref="char:EOLhyphen"/>ſtracted Perſons: In the Building and Finiſhing whereof, the Governours of the ſaid Hoſpital have laid out and disburſed above Seventeen Thouſand Pounds, whereby not only the whole Stock of the ſaid Hoſpital is expended, but the Governours thereof have been neceſſitated to take up ſeveral great Sums of Mo<g ref="char:EOLhyphen"/>ney, for the finiſhing the ſame. And therefore the ſaid Hoſpital is a very fit Object of all good Mens Charity, to do as God ſhall enable them, toward the Relief of the ſaid poor Lunaticks, and Payment of their Debts: there having been, and daily are by the Bleſſing of God, and the Charge of the ſaid Hoſpital, and the Care of thoſe that are intruſted therewith, divers reduced to their former Sences.</hi>
+            </p>
+            <p>XIII. Thus you have heard <hi>A true Report of the great Number of Poor Children, and other Poor Peo<g ref="char:EOLhyphen"/>ple, maintained in the ſeveral Hoſpitals, under the
+<pb n="22" facs="tcp:56230:14"/>Pious Care of the Lord Mayor, Commonalty, and Ci<g ref="char:EOLhyphen"/>tizens of the City of</hi> London, <hi>the Year laſt paſt;</hi> and from hence you may diſcern, what Exerciſe is ſtill left for Charitable Minds. And now upon reviewing it, I ſhall briefly annex <hi>Five</hi> Rules con<g ref="char:EOLhyphen"/>cerning the Management of our Alms.</p>
+            <list>
+               <item>
+                  <hi>1ſt,</hi> Charity which <hi>prevents</hi> Men from being oppreſs'd with Poverty, is better than that which onely <hi>ſupports</hi> them under it.</item>
+               <item>
+                  <hi>2dly,</hi> Charity which aims at the <hi>Publick</hi> Service, is better than that which is onely for <hi>private</hi> Relief.</item>
+               <item>
+                  <hi>3dly,</hi> Charity which is diſpos'd of into a <hi>Perpe<g ref="char:EOLhyphen"/>tual Fund,</hi> is better than that which is immediate<g ref="char:EOLhyphen"/>ly <hi>melted,</hi> and conſum'd.</item>
+               <item>
+                  <hi>4thly,</hi> Charity apply'd to the making of Men <hi>vertuous,</hi> is better than that which onely refreſheth the <hi>Body.</hi>
+               </item>
+               <item>
+                  <hi>5thly,</hi> Charity expended for <hi>correcting</hi> the Idle, and forcing them to <hi>work,</hi> is better than that which gives them a <hi>preſent</hi> Eaſe.</item>
+            </list>
+            <p>Upon which Grounds, I cannot but take notice of the Glory that will redound to God, and the Advantages accruing to this City, by the Erection of publick <hi>Work-Houſes:</hi> Which as you have be<g ref="char:EOLhyphen"/>gun with good Succeſs, I hope, the Conviction of their Uſefulneſs will break through the Difficulties that have retarded them, and ſecure their Eſta<g ref="char:EOLhyphen"/>bliſhment. And therefore I ſhall lay before you the preſent State of the <hi>Corporation</hi> ſettled for that End.</p>
+            <p>
+               <hi>The Preſident, and Governours have thought fit to provide ſeveral Houſes and parcels of Ground, in the Pariſh of St.</hi> Botolph Biſhopſgate, <hi>for the Reception
+<pb n="23" facs="tcp:56230:14"/>and employing of conſiderable Numbers of Childrens which they have, and are ſtill fitting up for that pur<g ref="char:EOLhyphen"/>poſe; and have already entertained about</hi> 200 <hi>Children from ſeveral Pariſhes therein, whom they cloth, feed, employ, and teach to work, and religiouſly educate and provide all ſorts of Neceſſaries for, as well in Sickneſs as in Health; and as they hope, to the Pleaſure and Satisfaction of every good Man, and the Glory of God: a</hi> Specimen <hi>whereof they have this day ſhewn you.</hi>
+            </p>
+            <p>
+               <hi>And the Corporation do propoſe by the Bleſſing of God, by this and other Means and Methods, in con<g ref="char:EOLhyphen"/>venient time to be undertaken, (though they have met with too much Oppoſition) to employ all the Poor of the City of</hi> London, <hi>and the Liberties thereof, and to keep the City clear, and free from all Beggars, Va<g ref="char:EOLhyphen"/>grants, and other idle and diſorderly Perſons what<g ref="char:EOLhyphen"/>ſover.</hi>
+            </p>
+            <p>
+               <hi>And the Corporation do alſo further intend to employ all poor Mechanicks in the ſeveral Employments they have been bred to, or ſhall be capable of; and to take off all the Work they work, though they ſhould loſe thereby, that ſo they may prevent any of their Inha<g ref="char:EOLhyphen"/>bitants from living idly and wanting Work, whereby many are forced to beg, ſteal, or to have recourſe to other diſſolute, vicious and unlawful Practices.</hi>
+            </p>
+            <p>This is part of the <hi>Report</hi> that was put into my hands: And for the recommending of ſuch <hi>Nur<g ref="char:EOLhyphen"/>ſeries,</hi> let us remember the Character of <hi>Solomon</hi>'s <hi>Vertuous Woman,</hi> and apply it: <hi>She ſeeketh wool,</hi>
+               <note place="margin">Prov. 31.13, 19, 20, 25.</note> 
+               <hi>and flax, and worketh willingly with her hands: She layeth her hands to the ſpindle, and her hands hold the diſtaff: She ſtretcheth out her hand to the poor; yea, ſhe reacheth forth her hands to the needy:
+<pb n="24" facs="tcp:56230:15"/>Strength, and honour are her clothing; and ſhe ſhall rejoyce in time to come.</hi>
+            </p>
+            <p>XIV. And what need I ſay more for the Encou<g ref="char:EOLhyphen"/>ragement of all theſe Charities, than to repeat the Words of our Lord <hi>Jeſus; It is more bleſſed to give, than to receive?</hi> Which Bleſſedneſs I am in the <hi>4th</hi> place to explain: And as to the <hi>comparative</hi> Part, 'tis evident from hence; becauſe in <hi>receiving</hi> there is no Vertue, nor any divine Promiſe to ex<g ref="char:EOLhyphen"/>alt it; and whatever <hi>preſent</hi> Satisfaction it cauſeth, it hath no <hi>future</hi> Recompence: But in <hi>giving</hi> to the poor, and calamitous there is a much better Proſpect. For both the Action it ſelf is highly vertuous, and conformable (as we have ſeen) to the Dictates of Reaſon, and Religion: And there is moreover a great Reward grounded upon the Promiſes of God, to excite us to Works of Mer<g ref="char:EOLhyphen"/>cy. If theſe be conſider'd as to this Life onely, the Performer of them will find his Retribution: But much more if they be conſider'd with reſpect to the State of <hi>Futurity,</hi> which Chriſtians in all their Actions ought chiefly to regard; as <hi>walking by faith, not by ſight.</hi>
+               <note place="margin">2 Cor. 5.7.</note> Such Encouragements we have to deeds of Charity; and God hath promis'd not onely the Acceptance of them, but alſo a full Re<g ref="char:EOLhyphen"/>quital to us: And though we can <hi>deſerve</hi> nothing at his hand, he graciouſly repreſents himſelf, as if he were <hi>indebted</hi> to us for them. And yet how little is it, that we can return to God for all his Benefits to us? 'Tis but a drop for an <hi>Ocean</hi> of Goodneſs; and 'tis but a Sheaf out of his own Field. Let us not then deal ungratefully, and pinchingly with ſo bountiful a God, who hath
+<pb n="25" facs="tcp:56230:15"/>made the whole Creation for our Uſe; and hath alſo made it inſtructive to us, in teaching us Leſſons of Beneficence, and Kindneſs. The Hea<g ref="char:EOLhyphen"/>vens, the Earth, the Sea, the Stars are always buſy in communicating their Light, their Fruits, their Streams, their Influences through all the Parts of the Univerſe: And the uncharitable Worldling meets with the Image of himſelf no where ſo plainly as in <hi>Hell;</hi> which devours all it can lay hold of, but returns nothing. His Gain will be ſuitable hereunto, when the time of In<g ref="char:EOLhyphen"/>ſpection comes: But the Chriſtian that imitates his Saviour, and <hi>goes about doing good,</hi>
+               <note place="margin">Act. 10.38</note> cannot fail of a bleſſed Remuneration from him.</p>
+            <p>XV. For <hi>1ſt,</hi> 'Tis the Advantage of Works of Charity, that they are uſually attended here with Temporal,<note place="margin">Iſ. 58, 10, 11.</note> and Spiritual Mercies: <hi>If thou ſatisfy the afflicted ſoul, the Lord ſhall guide thee conti<g ref="char:EOLhyphen"/>nually, and make fat thy bones; and thou ſhalt be like a watered Garden.</hi> They ſome<g ref="char:EOLhyphen"/>times prevail with God for the<note n="*" place="margin">Oportet justis operibus in<g ref="char:EOLhyphen"/>cumbere, quibus peccata pur<g ref="char:EOLhyphen"/>gantur; Eleemoſynis frequen<g ref="char:EOLhyphen"/>tèr inſiſtere, quibus à morte animae liberentur. <hi>Cyprian de Lapſ.</hi> Ea quae poſſidentur pau<g ref="char:EOLhyphen"/>peribus diviſa ſolutionem fa<g ref="char:EOLhyphen"/>ciunt praeteritae cupiditatis. <hi>Iren. l. 4. c. 26.</hi> Alius je<g ref="char:EOLhyphen"/>junio placet, alius vitia Elee<g ref="char:EOLhyphen"/>moſynis redimit. <hi>Hilar.</hi>
+               </note> Par<g ref="char:EOLhyphen"/>don of our Iniquities, and prevent his Judgments from falling upon us, <hi>covering</hi> in this Senſe <hi>a multitude of Sins:</hi> And ſometimes <hi>Com<g ref="char:EOLhyphen"/>munities</hi> are enrich'd, and pro<g ref="char:EOLhyphen"/>tected for the Sake of them: And generally they incline God to repay that with Intereſt, which any of us have freely given to him.<note place="margin">1 Pet. 4.8.</note> And ſince whatever we poſſeſs without his Benediction, will certainly vaniſh into Smoke; we may perceive what the wiſeſt <hi>Enſurance</hi> of it is: And if to eſcape the be<g ref="char:EOLhyphen"/>ſtowing
+<pb n="26" facs="tcp:56230:16"/>of Alms, we deny our own Abundance; God may juſtly take it from us, and turn our Riches into Poverty. But the charitable Man lays up a Stock in the Bowels of the poor, and may reap the Profits of it at a long diſtance:<note place="margin">Pſal. 112.9.</note> 
+               <hi>He hath diſperſed, he hath given to the poor; his Righteouſneſs endureth for ever; his horn ſhall be exalted with honour.</hi> Nay, beſides the Recom<g ref="char:EOLhyphen"/>pence aſcertain'd to himſelf, he tranſmits God's Promiſe to his Poſterity:<note place="margin">Pſal. 37.25, 26.</note> 
+               <hi>I have not</hi> (ſaith the <hi>Pſalmiſt) ſeen the righteous forſaken, nor his ſeed begging bread: He is ever merciful, and lendeth; and his ſeed is bleſſed.</hi> And if they who are ſo immo<g ref="char:EOLhyphen"/>derately ſolicitous, and laborious in raiſing Eſtates for their<note n="*" place="margin">Qui ſtudes terreno magìs quàm Coelesti patrimonio, fi<g ref="char:EOLhyphen"/>lios tuos Diabolo magìs com<g ref="char:EOLhyphen"/>mendare quàm Chriſto, du<g ref="char:EOLhyphen"/>plex crimen admittis: &amp; quod non praeparas filiis, tuis Dei patris auxilium, &amp; quod do<g ref="char:EOLhyphen"/>ces filios patrimonium plus a<g ref="char:EOLhyphen"/>mare quàm Christum <hi>Cy<g ref="char:EOLhyphen"/>prian.</hi>
+               </note> 
+               <hi>Children,</hi> and in heaping up Treaſures for them; and <hi>never ſay, It is enough;</hi> would but once believe this, and act agreeably; we ſhould ſoon behold Charity in a more ſpreading Condi<g ref="char:EOLhyphen"/>tion. We all own that the Provi<g ref="char:EOLhyphen"/>dence of God <hi>makes us rich,</hi> and puts us into a Capacity of relieving others;<note place="margin">Prov. 30.15. Prov. 10.22.</note> and this was acknowledg'd even by the<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Homer.</note> 
+               <hi>Heathen</hi> World: And why then are we backward in an<g ref="char:EOLhyphen"/>ſwering God's Will, and doing ſo; that he may continue his own Gift, and entail it upon thoſe that are deareſt to us?</p>
+            <p>XVI <hi>2dly,</hi> The Bleſſedneſs of Charity is yet much greater, in that it ſecures an endleſs Inheritance in the next World:<note place="margin">1 Tim. 6.18, 19.</note> And they that are <hi>rich in good works, and ready to diſtribute, lay up in ſtore for them<g ref="char:EOLhyphen"/>ſelves a good foundation againſt the time to come, that
+<pb n="27" facs="tcp:56230:16"/>they may lay hold on Eternal Life;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a ſure Bond, or Inſtrument of Contract, (as the<note n="*" place="margin">Sam. Petit. Var. Lect. <hi>Dr.</hi> Hammond.</note> word hath been happily render'd) that will be kept ſafe<g ref="char:EOLhyphen"/>ly, and perform'd exactly, God himſelf engaging to pay us. And is not this a purchaſe infinitely beyond all worldly Poſſeſſions? And if we could ſtand upon the <hi>Devil's Mountain,</hi>
+               <note place="margin">Mat. 4.8.</note> and overlook <hi>all the kingdoms</hi> of the Earth, all the Pomp, and Ho<g ref="char:EOLhyphen"/>nours, and Pride, and Pleaſures of them; what is there that can poſſibly enter into Compariſon with the vaſt, and unconceivable <hi>Prize of Eternity?</hi> You ſee the Art of <hi>procuring</hi> to your ſelves (though not of <hi>meriting</hi>) this Heavenly Patrimony: And what can we do with this uncertain, and deceitful <hi>Mammon,</hi> that is equal to the gaining of <hi>Friends,</hi> who may <hi>receive us into everlaſting habitations?</hi>
+               <note place="margin">Luk. 16.9.</note> Wherefore if Works of Charity are ſuch a ſtrong <hi>foundation,</hi> as to ſuſtain a Building no leſs weighty than that of Eternal Glory; doubtleſs he is the skilfulleſt <hi>Architect</hi> than can purſue this excellent Model, and expend his Wealth in raiſing ſuch a Fabrick to himſelf, as will outlaſt the Univerſal Conflagration.</p>
+            <p>XVII. And is not this abundant Conviction, That <hi>It is more bleſſed to give, than to receive?</hi> And to confirm us in this Perſwaſion, I ſhall ſtrengthen what hath been ſaid with <hi>Two</hi> Conſi<g ref="char:EOLhyphen"/>derations.</p>
+            <p>The <hi>1ſt</hi> of them is, That God will ſtrictly en<g ref="char:EOLhyphen"/>quire hereafter, what the Rich have done with all that Plenty which he beſtowed upon them: And therefore it behoves them to be well prepar'd for their Anſwer to him. And they eſpecially that have
+<pb n="28" facs="tcp:56230:17"/>been advanc'd from low Beginnings, that can ſay with <hi>Jacob,</hi>
+               <note place="margin">Gen. 32.10.</note> 
+               <hi>With my ſtaff I paſſed over this Jordan, and now I am become two bands;</hi> muſt not forget what proportionable Returns God expects from them. By <hi>humane</hi> Laws we have indeed a <hi>Pro<g ref="char:EOLhyphen"/>perty,</hi> and are <hi>Maſters</hi> of what we rightfully poſ<g ref="char:EOLhyphen"/>ſeſs: But <hi>Religion</hi> makes it a <hi>Truſt;</hi> and teacheth us, that<note n="*" place="margin">Cur, cùm poſſeſſores tan<g ref="char:EOLhyphen"/>tùm uſufructuarii ſimus, quod nobiſcum auferre non poſſumus, avertere à proprietatis do<g ref="char:EOLhyphen"/>mino, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> alienare tentamus? Cur non bonâ fide datis à Deo reſculis utimur? <hi>Salvian.</hi>
+               </note> all this Wealth is put into our hands, not to be ſquan<g ref="char:EOLhyphen"/>der'd away at our Pleaſure, but for certain <hi>
+                  <g ref="char:V">Ʋ</g>ſes,</hi> which, at the Great <hi>Au<g ref="char:EOLhyphen"/>dit,</hi> we are to be reſponſible for. This is intimated by Chriſt's calling it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Luk. 16.12.</note> 
+               <hi>that which belongs to another;</hi> and more directly in the Parable of the <hi>Talents,</hi>
+               <note place="margin">Mat. 25.14, &amp;c.</note> which were diſtributed to the <hi>Servants</hi> to trade with; and after a time they were ſummon'd to a Reckon<g ref="char:EOLhyphen"/>ing, and treated according to their diligence in Trading: And how heavy was the ſentence upon him, that did not waſt his Talent in Riot, but onely <hi>hide it in the Earth</hi> without any Improve<g ref="char:EOLhyphen"/>ment? Again, We are all <hi>Stewards</hi> to God, and muſt expect his Enquiry <hi>How his Rent hath been gathered, and diſpos'd of?</hi> And there is to be a Pe<g ref="char:EOLhyphen"/>riod to this Employment, and God will ſay to every one of us,<note place="margin">Luk. 16.2.</note> 
+               <hi>Give an account of thy Steward<g ref="char:EOLhyphen"/>ſhip, for thou mayeſt be no longer Steward.</hi> Let us then ſuppoſe God demanding of any one of us, <hi>What haſt thou done with all that Rent which I en<g ref="char:EOLhyphen"/>truſted with Thee? How hath it been laid out con<g ref="char:EOLhyphen"/>formably to my Will?</hi> To anſwer, I have hoarded it up,<note place="margin">Luk. 19.20.</note> and 'tis ſafe <hi>in a Napkin;</hi> is to confeſs, I have done no good at all with it: And the Doom upon ſuch a <hi>wither'd branch</hi> will be accordingly.
+<pb n="29" facs="tcp:56230:17"/>And again, What can a Man reply to that Que<g ref="char:EOLhyphen"/>ſtion, that hath laviſh'd out his <hi>Inheritance,</hi> and <hi>Conſcience</hi> too, in Lewdneſs, and Gaming, and Re<g ref="char:EOLhyphen"/>velling; in all the mad Frolicks of Luſt, and In<g ref="char:EOLhyphen"/>temperance; and to maintain his Vices, and pur<g ref="char:EOLhyphen"/>chaſe Damnation? Doubtleſs his Guilt will ſtrike him dumb; and having made his bargain, he muſt ſtand to it. But let the Caſe be more inno<g ref="char:EOLhyphen"/>cent, and ſuch an Anſwer given as ſuits with the Men of Honour and Generoſity: <hi>This I reckon for my Houſe, and Gardens; This for my gay Furniture; This for my Table; This for my Apparel; This for my Coaches, and Equipage;</hi> and ſo on. It will be pleaded, that the Man's Dignity, and Station re<g ref="char:EOLhyphen"/>quir'd his making of ſuch a ſplendid Figure; and 'tis a Reproach to a Man, not to live up to the height of his Fortune: And let us in good Man<g ref="char:EOLhyphen"/>ners allow this Plea, as far as we can. But ſtill the Scrutiny muſt go on; <hi>Where are the Bills for relieving the poor?</hi> Where are the Evidences of <hi>honouring God with thy Subſtance?</hi>
+               <note place="margin">Prov. 3.9.</note> For if the<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſoſtom. Orat. 2. in Lazar.</note> whole Sum committed to thee be ſwallow'd up in thoſe Expences, how popular ſoever; if God, and his Poor have not had an equitable ſhare of this Plenty; if their <hi>Fleece</hi> hath remained <hi>dry,</hi> when the <hi>Dew</hi> hath been ſpread over <hi>all the ground;</hi> this <hi>Account</hi> will never paſs with God: and though (as the <hi>Pſalmiſt</hi> ſpeaks) <hi>Men will praiſe thee when thou doſt well to thy ſelf;</hi> the Praiſe of God, (which is infinitely better) nay, and of wiſe Men too,<note place="margin">Jud. 6.40. Pſal. 49.18.</note> is onely to be obtain'd by doing good to others.</p>
+            <pb n="30" facs="tcp:56230:18"/>
+            <p>XVIII. <hi>2dly,</hi> Let it be conſider'd, That the onely way to make Riches a Bleſſing, is to employ, and manage them as God hath appointed. For we know that our <hi>Saviour</hi> is ſtrangely ſevere upon them;<note place="margin">Mat. 19.23.</note> declaring, <hi>That a rich man ſhall hardly en<g ref="char:EOLhyphen"/>ter into the Kingdom of Heaven;</hi> and denouncing thus,<note place="margin">Luk. 6.24.</note> 
+               <hi>Wo unto you that are rich, for ye have re<g ref="char:EOLhyphen"/>ceived your Conſolation:</hi> And his <hi>Apoſtle</hi> ſaith,<note place="margin">1 Tim. 6.9.</note> 
+               <hi>They that will be rich fall into temptation, and a ſnare; and into many fooliſh, and hurtful lusts, which drown men in destruction, and perdition.</hi> Wherefore ſince there is ſo much danger in this envied Con<g ref="char:EOLhyphen"/>dition, and 'tis a rough Sea full of Shipwracks; (many of which we may ſee before us) let us not be ſeduc'd by the falſe Notions of the World; but look upon the true Happineſs of Riches to conſiſt in the Religious Management of them. The way to Heaven is equally open to the <hi>Rich,</hi> and to the <hi>Poor;</hi> but they muſt go in different Paths: Theſe by Contentedneſs, and Patience, and In<g ref="char:EOLhyphen"/>duſtry, and Submiſſion to the Will of God, and Reliance upon him for daily Bread: And thoſe by Gratitude to God, and Humility, and Gentleneſs, and Liberality, and Charity. Let them then, according to the Elevation of their Rank, Exer<g ref="char:EOLhyphen"/>ciſe theſe Vertues, and <hi>do good,</hi> and <hi>communicate</hi> what they abound with; let them not be <hi>high<g ref="char:EOLhyphen"/>minded,</hi>
+               <note place="margin">1 Tim. 6.17.</note> or ſurpercilious; nor look down with Scorn upon thoſe of lower degree, and higher Graces; <hi>nor truſt in uncertain riches, but in the living God, who giveth us richly all things to enjoy:</hi> Let them be able to produce the Objects of their own Beneficence, and to evince how <hi>rich</hi> they
+<pb n="31" facs="tcp:56230:18"/>have been <hi>towards God:</hi>
+               <note place="margin">Luk. 12.21.</note> And (as the famous<note n="*" place="margin">Laurent. a<g ref="char:EOLhyphen"/>pud Ambroſ. Offic. <hi>l. 2. c. 28.</hi>
+               </note> Saint of old having the Treaſures of his Church demanded from him, ſet out in order the poor that were fed conſtantly by it, and ſaid, <hi>Hi ſunt theſauri Eccleſiae;</hi>) let them thus marſhal their in<g ref="char:EOLhyphen"/>digent <hi>Penſioners,</hi> and embrace them, ſaying, <hi>Theſe are our Treaſures, theſe are they that enrich us, and promote our Salvation:</hi> And then they will have ſubſtantial Greatneſs, and ſhine with an un<g ref="char:EOLhyphen"/>tainted Luſtre; then they will be honourable in the Sight of God,<note place="margin">Mat. 5.19.</note> and <hi>great in the Kingdom of Heaven.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 2. line 16. for <hi>depoſed</hi> read <hi>depoſited.</hi> p. 7. l. <hi>ult.</hi> for <hi>of</hi> r. <hi>by.</hi> p. 19. Theſe Words, <hi>Eccl.</hi> 35.20. and <hi>Mat.</hi> 10.42. are to be put in the Margin.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
